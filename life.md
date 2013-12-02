@@ -30,6 +30,6 @@
 - 06/2011 Travelled around South America ( Santiago, Chile -> Lima, Peru )
 - 01/2013 Trip to Shanghai
 - 10/2010-05/03/2013 Web Developer at Fusionbox, Inc. in Denver, CO
-- 10/27/2013 First Half Marathon
+- 27/10/2013 First Half Marathon
 - 06/03/2013-~ Internal Tools Developer / Devops at Craftsy!
 - 02/2011-03/2014 Lived in Denver, Colorado
