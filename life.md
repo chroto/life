@@ -1,22 +1,25 @@
-@cheeaun's life
+@chroto's life
 ===============
 
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 First tweet
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 HackerWeb featured on Hacker News' front page
-- 01/07/2013-~ Software Engineer - Viki
+- 8/02/1988 Born at Yale New Haven
+- 08/02/1988-1993 Busy being a baby
+- 08/1993-06/2002 Attended St. Rita's School in Hamden, CT
+- 10/2002-03/2006 Worked at Primo Pizza ( First Job! )
+- 08/2002-06/2006 Attended Notre Dame High School West Haven
+- 08/2006-06/2010 Attended Villanova University
+- 01/2007-06/2008 Worked at Campus Convenience Store and Dining Hall
+- 07/2008-12/2008 Attended University of Melbourne
+- 23/09/2008-04/10/2008 Walk About in the Australian Bush
+- 12/2008 Holiday in New Zealand
+- 06/2009-09/2009 Designed and Implemented IEEE-754 Floating Point Unit in VHDL!
+- 06/2009-08/2009 Worked on campus as Calc I/II Tutor
+- 09/2009-05/2010 Senior Project - Encrypted File Transfer Application ( 1st place in the CPE Category! )
+- 06/21/2010 Graduated Summa Cum Laude with a Bachelor's of Science - Computer Engineering
+- 07/01/2010 Moved to Boulder, Colorado!
+- 07/2010-09/2010 Professional Research Assistant at the University of Colorado Boulder
+- 10/2010-03/05/2013 Web Developer at Fusionbox, Inc. in Denver, CO
+- 02/2011 Moved to Denver, Colorado
+- 06/2011 Travelled around South America ( Santiago, Chile -> Lima, Peru )
+- 03/06/2013- Internal Tools Developer / Devops at Craftsy!
+- 01/2013 Trip to Shanghai
+- 02/2011-03/2014 Lived in Denver, Colorado
