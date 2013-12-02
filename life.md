@@ -20,6 +20,6 @@
 - 10/2010-03/05/2013 Web Developer at Fusionbox, Inc. in Denver, CO
 - 02/2011 Moved to Denver, Colorado
 - 06/2011 Travelled around South America ( Santiago, Chile -> Lima, Peru )
-- 03/06/2013- Internal Tools Developer / Devops at Craftsy!
+- 03/06/2013-~ Internal Tools Developer / Devops at Craftsy!
 - 01/2013 Trip to Shanghai
 - 02/2011-03/2014 Lived in Denver, Colorado
