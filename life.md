@@ -33,3 +33,4 @@
 - 01/2013 Trip to Shanghai
 - 27/10/2013 First Half Marathon
 - 06/03/2013-~ Internal Tools Developer / Devops at Craftsy!
+
