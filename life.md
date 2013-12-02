@@ -17,9 +17,9 @@
 - 21/06/2010 Graduated Summa Cum Laude with a Bachelor's of Science - Computer Engineering
 - 01/07/2010 Moved to Boulder, Colorado!
 - 07/2010-09/2010 Professional Research Assistant at the University of Colorado Boulder
-- 10/2010-03/05/2013 Web Developer at Fusionbox, Inc. in Denver, CO
-- 02/2011 Moved to Denver, Colorado
+- 10/2010-05/03/2013 Web Developer at Fusionbox, Inc. in Denver, CO
+- 14/02/2011 Moved to Denver, Colorado
 - 06/2011 Travelled around South America ( Santiago, Chile -> Lima, Peru )
-- 06/03/2013-~ Internal Tools Developer / Devops at Craftsy!
 - 01/2013 Trip to Shanghai
 - 02/2011-03/2014 Lived in Denver, Colorado
+- 06/03/2013-~ Internal Tools Developer / Devops at Craftsy!
