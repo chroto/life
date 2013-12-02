@@ -18,8 +18,8 @@
 - 26/12/2008-30/12/2008 First Time Bouldering
 - 06/2009-09/2009 Designed and Implemented IEEE-754 Floating Point Unit in VHDL!
 - 06/2009-08/2009 Worked on campus as Calc I/II Tutor
-- 09/2009-12/2009 Started Studying Programming Languages as a Hobby
 - 07/2009 First go at Bouldering Outdoors
+- 09/2009-12/2009 Started Studying Programming Languages as a Hobby
 - 09/2009-05/2010 Senior Project - Encrypted File Transfer Application ( 1st place in the CPE Category! )
 - 21/06/2010 Graduated Summa Cum Laude with a Bachelor's of Science - Computer Engineering
 
