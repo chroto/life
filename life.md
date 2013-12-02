@@ -10,8 +10,10 @@
 - 07/2008-12/2008 Attended University of Melbourne
 - 23/09/2008-04/10/2008 Walk About in the Australian Bush
 - 12/2008 Holiday in New Zealand
+- 26/12/2008-30/12/2008 First Time Bouldering
 - 06/2009-09/2009 Designed and Implemented IEEE-754 Floating Point Unit in VHDL!
 - 06/2009-08/2009 Worked on campus as Calc I/II Tutor
+- 07/2009 First go at Bouldering Outdoors
 - 09/2009-05/2010 Senior Project - Encrypted File Transfer Application ( 1st place in the CPE Category! )
 - 21/06/2010 Graduated Summa Cum Laude with a Bachelor's of Science - Computer Engineering
 - 08/2006-06/2010 Attended Villanova University
@@ -21,5 +23,6 @@
 - 06/2011 Travelled around South America ( Santiago, Chile -> Lima, Peru )
 - 01/2013 Trip to Shanghai
 - 10/2010-05/03/2013 Web Developer at Fusionbox, Inc. in Denver, CO
+- 10/27/2013 First Half Marathon
 - 06/03/2013-~ Internal Tools Developer / Devops at Craftsy!
 - 02/2011-03/2014 Lived in Denver, Colorado
