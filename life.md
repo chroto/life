@@ -28,9 +28,11 @@
 - 14/07/2010 Wrote first Web Application ( Django! )
 - 07/2010-09/2010 Professional Research Assistant at the University of Colorado Boulder
 - 10/2010-05/03/2013 Web Developer at Fusionbox, Inc. in Denver, CO
+- 07/01/2011-14/01/2011 Ouray Ice Climbing Festival
 - 14/02/2011 Moved to Denver, Colorado
 - 02/2011-03/2014 Lived in Denver, Colorado
 - 06/2011 Travelled around South America ( Santiago, Chile -> Lima, Peru )
+- 07/01/2012-14/01/2012 Ouray Ice Climbing Festival
 - 01/2013 Trip to Shanghai
 - 27/10/2013 First Half Marathon
 - 06/03/2013-~ Internal Tools Developer / Devops at Craftsy!
