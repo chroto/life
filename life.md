@@ -20,6 +20,7 @@
 - 06/2009-08/2009 Worked on campus as Calc I/II Tutor
 - 07/2009 First go at Bouldering Outdoors
 - 09/2009-12/2009 Started Writing Python as a Hobby
+- 10/2009-06/2010 Worked at Chris' Grill
 - 09/2009-05/2010 Senior Project - Encrypted File Transfer Application ( 1st place in the CPE Category! )
 - 21/06/2010 Graduated Summa Cum Laude with a Bachelor's of Science - Computer Engineering
 
