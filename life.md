@@ -15,6 +15,7 @@
 - 07/2008-12/2008 Attended University of Melbourne
 - 23/09/2008-04/10/2008 2 week Walk About in the Australian Bush
 - 12/2008 Holiday in New Zealand
+- 15/12/2008 First Time Bungee Jumping
 - 26/12/2008-30/12/2008 First Time Bouldering
 - 06/2009-09/2009 Designed and Implemented IEEE-754 Floating Point Unit in VHDL!
 - 06/2009-08/2009 Worked on campus as Calc I/II Tutor
